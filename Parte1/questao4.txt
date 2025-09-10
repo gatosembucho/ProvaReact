@@ -1,0 +1,1 @@
+Conventional Branches e Commits são uma padronização de nomes e mensagens para tais atividades que facilitam no controle e nos permitem uma leitura mais facil.

@@ -1,0 +1,14 @@
+git branch feature/login
+git checkout feature/login
+
+
+A-
+git add . 
+git commit -m "branch nova"
+git push
+
+
+B-
+Abrir um pull request pela interface do github
+aprovar
+Fazer o merge

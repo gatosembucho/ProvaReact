@@ -1,0 +1,1 @@
+O git commit funciona como um marcador, ele apenas alva uma versão com a descrição, agora se voce quer mandar essa dita versão para o repósitorio, utiizamos o git push.

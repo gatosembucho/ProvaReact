@@ -1,0 +1,3 @@
+Pull request é uma solicitação para juntar uma branch a outra, essa ação é feita no repositorio remoto.
+ Essa ação é importante para processos colaborativos pois ela abre espaço para discussões, permitindo melhorias e sugestões relevantes,
+alem de revisar o codigo para que o produto final não seja comprometido. 
